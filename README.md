@@ -47,7 +47,11 @@
 
 ---
 
----
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard-ops)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduard-ops&layout=compact)
 
 [instagram]: https://www.instagram.com/edikpustynnik/
 [linkedin]: https://www.linkedin.com/in/eduard-pustynnik-aa9a331a7/
