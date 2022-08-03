@@ -14,7 +14,7 @@
 
 [<img alt="inst | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="link | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<a href="mailto:epustynnik@gmail.com"><p>клик</p></a>
+<a target="_blank" href="mailto:epustynnik@gmail.com"><p>клик</p></a>
 
 ---
 
