@@ -15,7 +15,7 @@
 
 [<img alt="inst | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="link | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="gmail| Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+<a href="mailto:epustynnik@gmail.com"><img alt="gmail| Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
@@ -57,4 +57,3 @@
 
 [instagram]: https://www.instagram.com/edikpustynnik/
 [linkedin]: https://www.linkedin.com/in/eduard-pustynnik-aa9a331a7/
-[gmail]: https://mail.google.com/mail/u/0/#inbox
