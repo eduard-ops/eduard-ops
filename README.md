@@ -8,14 +8,13 @@
 - 🔭 I’m currently working on **developing my knowledge**
 - 🌱 I’m currently learning everything I can get my hands on
 - 🤔 I’m looking for help with **finding more time in a single day**
-- 📫 How to reach me: epustynnik@gmail.com
 - ⚡ Fun fact: **I love what I do - code and gaining new knowledge**
 
 ### 🤝 Connect with me:
 
 [<img alt="inst | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img alt="link | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-<a href="mailto:epustynnik@gmail.com"><img alt="gmail| Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:epustynnik@gmail.com">Ссылка</a>
 
 ---
 
@@ -57,3 +56,5 @@
 
 [instagram]: https://www.instagram.com/edikpustynnik/
 [linkedin]: https://www.linkedin.com/in/eduard-pustynnik-aa9a331a7/
+
+<!-- <img alt="gmail| Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
