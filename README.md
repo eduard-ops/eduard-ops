@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="prog" src="https://github.com/eduard-ops/my-profile/blob/main/assets/front-end-skills.png"/>
+  <img alt="prog" src="https://github.com/eduard-ops/my-profile/blob/main/assets/back.jpg"/>
 </div>
 
 # Hi everyone, I'm Eduard👋
